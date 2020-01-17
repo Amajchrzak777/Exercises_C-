@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570965384 source:c:\users\admin\documents\polskispoj\ex37_c++\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+

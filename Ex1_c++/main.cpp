@@ -1,0 +1,12 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "Print a welcome text in a separate line: " << endl;
+    cout<<"---------------------------------------------"<<endl;
+    cout<<" Welcome to "<<endl;
+    cout<<" w3resource.com"<<endl;
+    return 0;
+}

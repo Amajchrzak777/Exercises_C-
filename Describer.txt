@@ -1,0 +1,2 @@
+The files inlude exercises which i made on start with c++, for train the language.
+enviroment codeblocks
